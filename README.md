@@ -1,7 +1,5 @@
 # Local Search Engine
 
----
-
 ## Styling (CSS)
 
 The webpage uses **flexbox** layout, which centers the content. Each website box has a logo and a name with hover animation that scales the box up slightly for better visual effect. The content is wrapped in a responsive grid system.
